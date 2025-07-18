@@ -77,9 +77,3 @@ Key focus areas include:
 **Piyush Agarwal**  
 📧 agpiyush84@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/agpiyush84/)
-
----
-
-## 📌 Note
-
-This project is part of a portfolio to demonstrate practical data analytics and visualization skills using Power BI and Excel in a retail/e-commerce context.
